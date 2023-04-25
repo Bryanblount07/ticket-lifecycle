@@ -34,7 +34,7 @@ Copy and paste to create tickets. http://localhost/osTicket/
 <img src="https://imgur.com/qX2SgM6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Paste the link you were suppose to copy, Click create new ticket & fill out the fields. 
+Paste the link you were suppose to copy, Click create new ticket & fill out the fields. Then click create new ticket.
 </p>
 <br />
 
