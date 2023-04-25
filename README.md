@@ -47,7 +47,7 @@ Log out & log into Jane doe in your osTicket. A resolve the ticket
 <br />
 
 <p>
-<img src="https://imgur.com/F0Bypam" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/F0Bypam.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 This problem has been resolved.
