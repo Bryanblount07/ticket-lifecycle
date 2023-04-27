@@ -28,7 +28,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <P> 
-Copy and paste to create tickets. http://localhost/osTicket/ 
+Copy and paste to create tickets. http://localhost/osTicket/open.php
 
 <p>
 <img src="https://imgur.com/qX2SgM6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
